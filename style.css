@@ -1,0 +1,30 @@
+body{
+    background-image:url("https://www.buildabear.co.uk/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dwf4ee80d2/03230801632465~x20054115.jpg?sw=800&sh=800&sm=fit");
+    background-repeat: no-repeat;
+    background-size:400px 700px;
+    background-position: calc(50% + 120px) calc(50% + 250px);
+
+margin:0;
+font-weight: bolder;
+font-size: x-large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-right: 120px;
+    
+}
+   
+
+h1{
+    background-color: blueviolet;
+    color: violet;
+}
+
+#outcome {
+    align-self: flex-start;
+    margin-left: 30px;
+    font-weight: 900;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
